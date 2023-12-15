@@ -215,7 +215,7 @@
   /*  Home  */
   .home {
     display: flex;
-    background: url("../image/background.jpg") no-repeat
+    background: url("background.jpg") no-repeat
       center;
     height: 100vh;
     color: #fff;
